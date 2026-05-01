@@ -19,7 +19,7 @@ title: Al Vargas - Portfolio
 tagline: Proyectos y aventuras de un sanitario readentrandose en IT.
 
 description: >- # used by seo meta and the atom feed
- El portfolio de un sanitario que se readentra en el mundo IT. Proyectos, aventuras y aprendizajes.
+  El portfolio de un sanitario que se readentra en el mundo IT. Proyectos, aventuras y aprendizajes.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -36,7 +36,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Alberto Vargas
   email: alberto.varggall@gmail.com # change to your email address
-  fediverse_handle: @alvargas@mastodon.social # fill in your fediverse handle. E.g. "@username@domain.com"
+  fediverse_handle: "@alvargas@mastodon.social" # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -151,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # ------------ The following options are not recommended to be modified ------------------
 
